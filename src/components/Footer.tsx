@@ -239,7 +239,7 @@ const Footer = () => {
                   name="Phone"
                   className="h-5 w-5 mr-3 text-abricos-orange shrink-0"
                 />
-                <span>+7 (495) 123-45-67</span>
+                <span>+7 (3532) 51-36-66</span>
               </li>
               <li className="flex">
                 <Icon
